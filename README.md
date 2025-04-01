@@ -13,4 +13,4 @@ Just add your name and favourite quote to the document.
 4. srcad20 - "You have to believe in yourself when no one else does.”
 5. Xu5tos - "there is nothing outside of yourself that can ever enable you to get better, stronger, richer, quicker, or smarter. EVERYTHING IS WITHIN. Everything exists. Seek Nothing outside of Yourself.”
 6. Enigmata - "there is no world without enigma."
-7. ShockWave08 - "Sink or Swim"
+7. ShockWave08 - "Sink or Swim!"
