@@ -3,7 +3,7 @@
 HelloTeam  
 Unit 500   
 "We outside!"  
-Contributors = 9
+Contributors = 10
 
 Just add your name and favourite quote to the document.  
 
@@ -16,3 +16,4 @@ Just add your name and favourite quote to the document.
 7. ShockWave08 - "Sink or Swim."
 8. tangbaby1 - "If you never know failure, you will never know success."
 9. Greattrump - Life is ambigous dont be afraid to adapt and change
+10. Reader641 - "Having eyes and not seeing Mount Tai"
